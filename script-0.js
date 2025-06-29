@@ -13712,12 +13712,6 @@ class xg {
         var i, s;
         const r = ((s = e == null ? void 0 : (i = e.route).handler) == null ? void 0 : s.call(i, e)) ?? (e == null ? void 0 : e.route);
         if (!e || !r) {
-                    "jackbox-talks" {
-                        file: "script.js",
-                        css: ["assets/style-0.css","slideshow-display.css"],
-                        base: "main/pp7/jackboxtalks",
-                        version: "5.25.0"
-                    },
             this.redirect("/", e);
             return
         }
@@ -14053,7 +14047,7 @@ const _g = "production",
                 },
                 "jackbox-talks": {
                     file: "script.js",
-                    css: ["assets/style-0.css"],
+                    css: ["assets/style-0.css","slideshow-display.css"],
                     base: "main/pp7/jackboxtalks",
                     version: "5.25.0"
                 },
