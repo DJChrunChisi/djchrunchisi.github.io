@@ -13712,7 +13712,7 @@ class xg {
         var i, s;
         const r = ((s = e == null ? void 0 : (i = e.route).handler) == null ? void 0 : s.call(i, e)) ?? (e == null ? void 0 : e.route);
         if (!e || !r) {
-                    "jackbox-talks": {
+                    "jackbox-talks" {
                         file: "script.js",
                         css: ["assets/style-0.css","slideshow-display.css"],
                         base: "main/pp7/jackboxtalks",
