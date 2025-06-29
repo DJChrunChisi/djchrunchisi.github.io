@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    id="_Слой_2"
-   viewBox="0 0 490.7 102.79"
+   viewBox="0 0 938.95573 103.53543"
    version="1.1"
    sodipodi:docname="01da13ff.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   width="938.95575"
+   height="103.53543"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -19,8 +21,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.1816335"
-     inkscape:cx="214.53353"
-     inkscape:cy="48.661451"
+     inkscape:cx="437.10677"
+     inkscape:cy="49.507737"
      inkscape:window-width="3422"
      inkscape:window-height="1401"
      inkscape:window-x="1841"
@@ -35,7 +37,7 @@
   <text
      class="cls-2"
      id="text5"
-     style="font-size:103.432px;stroke-width:1.93935;fill:#ffffff;fill-opacity:1"
-     y="77.479706"
-     x="-231.90643">FamilyGuyBowling</text>
+     style="font-size:103.432px;fill:#ffffff;fill-opacity:1;stroke-width:1.93935"
+     y="78.711754"
+     x="-9.3088799">FamilyGuyBowling</text>
 </svg>
