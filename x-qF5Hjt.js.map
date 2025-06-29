@@ -6,13 +6,13 @@
         <meta name="viewport" content="minimal-ui, width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
         
         <title>FamilyGuyBowling</title>
-        <meta name="description" content="Family Guy Bowling - Freaking Chaotic as Crap, Lois.">
+        <meta name="description" content="Family Guy Bowling.">
         <meta name="application-name" content="Family Guy Bowling"/>
 
-        <meta name="og:url" content="https://djchrunchisi.github.io/">
+        <meta name="og:url" content="https://familyguybowling.vercel.app/">
         <meta name="og:title" content="FamilyGuyBowling">
         <meta name="og:type" content="website">
-        <meta name="og:description" content="Family Guy Bowling - Freaking Chaotic as Crap, Lois.">
+        <meta name="og:description" content="Family Guy Bowling.">
         <meta name="og:image" content="./src/images/favicon-196x196.png">
 
         <meta name="mobile-web-app-capable" content="yes">
